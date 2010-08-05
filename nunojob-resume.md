@@ -21,7 +21,7 @@ MarkLogic, San Carlos, CA, USA
 Technical Enablement Engineer
 January 2010
 
-* Technical Instructor: Delivered technical classes about MarkLogic Server to over one hundred students
+* Technical Instructor: Delivered technical classes about MarkLogic Server to over one hundred students. Course Development
 * Consultant: Discussed customer solutions and MarkLogic features
 * Produced technical material used by MarkLogic University
 * Direct customer support on early stage prototypes 
