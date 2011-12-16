@@ -1,33 +1,43 @@
-Profile
-=======
-
-Enablement engineer looking to lead a small team in a technical sales or business role. Highly motivated to work with emerging technologies such as document databases, functional programming, and open-source. Currently helping MarkLogic shape the future of information retrieval.
-
-[Code](http://code.nunojob.com/ "Code")
-
 Personal Information
 ====================
 
 Phone: +1 (406) NUNOJOB 
 Email: nunojobpinto@gmail.com
-Misc: H1B / Drivers License
+Misc: H1B
+Code: [github](http://github.com/dscape "Code")
 
 Professional Experience
 ===================
 
-MarkLogic, London, UK
+Nodejitsu, New York, NY, USA
 ------------------------------
-Financial Services Sales Engineer
-August 2010 to October 2010
+Business Development
+December 2011
+
+* Marketing, product development \& customer service 
+* Drive business growth and market share
+* node.js software engineering
 
 MarkLogic, San Carlos, CA, USA
 ------------------------------
+Developer Advocate Lead
+May 2011 to November 2011
+
+* Speaking engagements & technical writing
+* Developer outreach & marketing
+* MarkLogic centric open-source projects
+
 Technical Enablement Engineer
-January 2010
+January 2010 to May 2011
 
 * Training tailored to specific customer applications
-* Evangelist at NoSQL and open-source conferences
-* MarkLogic centric open-source projects
+* Specialized customer engagement
+* Developer Advocate at NoSQL and open-source conferences
+
+MarkLogic, London, UK
+------------------------------
+Financial Services Sales Engineer
+August 2010 to February 2011
 
 IBM, Markham, ON, Canada
 ------------------------
@@ -35,19 +45,17 @@ DB2 Technical Enablement Specialist
 September 2009 to December 2010
 
 * IBM Information Management go-to-market partner programs
-* Evangelist on DB2, pureXML and Ruby on Rails
-* Ruby on Rails Tech Lead \& Operations Engineer
+* Ruby on Rails Tech Lead & Operations Engineer
 
 IBM, Hawthorn, NY, USA
 ----------------------
 ISV Solutions Engineer - Data Specialist: DB2 pureXML
 October 2008 to August 2009
 
-* pureXML prototyping and consulting for financial, health-care and government
-* Evangelist on DB2 pureXML
+* Developer Advocate on DB2 pureXML
 * XML Industry Standards
 * Published Technical writer on developerWorks
-* Team lead for the DB2 on Rails book
+* Team lead & Author at the DB2 on Rails book
 
 Mobicomp (A Microsoft Subsidiary), Braga, Portugal
 ------------------------------------------------
@@ -56,13 +64,6 @@ October 2006 to March 2007
 
 * User-interface design and HCI Specialist
 * C\# Parser Development (vCard and vCalendar)
-
-Certifications
-==============
-
-* IBM Certified Database Associate for DB2, 2009
-* IBM Information Management DB2 Technical Professional, 2009
-* Post-graduate in Cryptography and Language Engineering
 
 Education
 =========
@@ -81,13 +82,9 @@ Engineering College of Aarhus, Aarhus, Denmark
 
 Technical Skillset
 ==================
-
-* **Database:** MarkLogic, MySQL, IBM DB2, CouchDB, SQLite, Oracle, NoSQL, Privacy & Security XML: XForms, XPath, XSLT, XQuery, XML Schema, SQL/XML, IBM pureXML, Oracle XML DB, XML Industry Standards
-* **Web:** HTML, CSS, JavaScript (jQuery), JSON, AJAX, DOM 
-* **Ruby:** Ruby on Rails, Sinatra, Shoes, ActiveRecord (ORM), DataMapper, ActiveDocument 
-* **Java:** JDBC, Apache Tomcat, Websphere Aplication Server, Websphere Aplication Server Community Edition 
-* **C#:** .NET, Visual Studio Tools for Office Other 
-* **Languages:** Haskell, C, Prolog, Perl, PHP, UNIX Shell Scripting
-* **Developer Tools:** TextMate, Eclipse, VIM, Version Control (svn, git), Virtualisation (VirtualBox, VMware)
-* **Operative Systems:** Linux (Redhat, Debian), OS X, Windows 
-* **Creative:** Photoshop, OpenGL, Processing
+* **Database**: CouchDB, MarkLogic, IBM DB2, SQLite, NoSQL, Privacy & Security
+* **Web**: Node.js, HTML5, CSS, JavaScript
+* **XML**: XPath, XQuery, IBM pureXML, XML Industry Standards
+* **Ruby**: Ruby on Rails, Sinatra, Shoes
+* **C#**: .NET, Visual Studio Tools for Office
+* **Other Languages**: Haskell, C, Prolog, Perl, PHP, Shell Scripting
