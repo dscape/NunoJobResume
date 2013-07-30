@@ -1,0 +1,136 @@
+{ "name"               : "Nuno Job"
+, "paper"              : "paper"
+, "contact"            :
+  { "address"          :
+    { "city"           : "London        "
+    , "country"        : "United Kingdom"
+    }                  
+  , "phone"            : "+44 7869 717 737"
+  , "email"            : "nunojobpinto@gmail.com"
+  }                    
+, "sections"           :
+  [ { "title"          : "Professional Experience"
+    , "contents"       :
+      [ { "company"    :
+          { "name"     : "Nodejitsu"
+          , "url"      : "http://nodejitsu.com"
+          , "location" : "New York, NY, USA"
+          }
+        , "positions"  :
+          [ { "title"  : "Chief Comercial Officer"
+            , "dates"  :
+              { "from" : "Dec 2011"
+              , "to"   : "Aug 2013"
+              }
+            , "responsibilities" :
+              [ "Product Vision, Product Management, R&D. Node.js"
+              , "Business development, Strategic Partnerships, Growth"
+              , "P&L, Marketing, Pricing, Sales, Accounts, Fund Raising"
+              ]
+            }
+          ]
+        }
+      , { "company"    :
+          { "name"     : "The Node Firm"
+          , "url"      : "http://thenodefirm.com"
+          , "location" : "San Francisco, CA, USA"
+          }
+        , "positions"  :
+          [ { "title"  : "Co-founder & President"
+            , "dates"  :
+              { "from" : "Jan 2012"
+              , "to"   : "Jan 2013"
+              }
+            }
+          ]
+        }
+      , { "company"    :
+          { "name"     : "MarkLogic"
+          , "url"      : "http://marklogic.com"
+          , "location" : "San Carlos, CA, USA"
+          }
+        , "positions"  :
+          [ { "title"  : "Consultant"
+            , "dates"  :
+              { "from" : "Dec 2009"
+              , "to"   : "Dec 2011"
+              }
+            , "responsibilities" :
+              [ "Consultant for FinServ and Media"
+              , "Developer Advocate for the NoSQL Community"
+              , "Technical Instructor"
+              ]
+            }
+          ]
+        }
+      , { "company"    :
+          { "name"     : "IBM"
+          , "url"      : "http://www.ibm.com/ca/en/"
+          , "location" : "Markham, ON, Canada"
+          }
+        , "positions"  :
+          [ { "title"  : "Database Technical Enablement Specialist"
+            , "dates"  :
+              { "from" : "Aug 2009"
+              , "to"   : "Dec 2009"
+              }
+            }
+          ]
+        }
+      , { "company"    :
+          { "name"     : "IBM Research"
+          , "url"      : "http://www.ibm.com"
+          , "location" : "Hawthorn, NY, USA"
+          }
+        , "positions"  :
+          [ { "title"  : "Solutions Engineer Intern"
+            , "dates"  :
+              { "from" : "Oct 2008"
+              , "to"   : "Aug 2009"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  , { "title"          : "Education"
+    , "contents"       :
+      [ { "school"     : "University of Minho"
+        , "url"        : "http://www.uminho.pt/Default.aspx?lang=en-US"
+        , "location"   : "Braga, Portugal"
+        , "degrees"    :
+          [ { "name"   : "M.S."
+            , "subject": "Computer Science"
+            , "url"    : "http://www.di.uminho.pt/teaching/graduate_courses/master-course-in-informatics/master-course-in-informatics?set_language=en&cl=en"
+            , "desc"   : "Web, Distributed Systems, Security, Cryptography, NLP, Parsers"
+            }
+          , { "name"   : "B.E."
+            , "subject": "Computer Science and Systems Engineering"
+            , "url"    : "http://www.gri.uminho.pt/ModuleLeft.aspx?mdl=~/Modules/ECTS/PortalModules/Plans.ascx&c=53&mid=366&lang=eng&pageid=377&tabid=4"
+            , "end"    : "Mar 2008"
+            }
+          ]
+        }
+      , { "school"     : "Engineering College of Aarhus"
+        , "url"        : "http://www.iha.dk"
+        , "location"   : "Aarhus, Denmark"
+        , "degrees"    :
+          [ { "name"   : "Erasmus Intensive Summer School - Bang & Olufsen"
+            , "url"    : "http://www.iha.dk/English-5570.aspx"
+            , "subject": "Conceptual Design and Development of Innovative Products"
+            , "end"    : "Jul 2008"
+            }
+          ]
+        }
+      ]
+    }
+  , { "title"          : "Other"
+    , "contents"       :
+      [ "Open Source Enthusiast (github.com/dscape)"
+      , "Co-founder and curator of the Lisbon JavaScript Conference (LXJS)"
+      , "Advisor to Auth0 and Nodejitsu"
+      , "Enjoy spending my free time building prototypes and meeting people"
+      ]
+    }
+  ]
+}
